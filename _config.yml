@@ -1,9 +1,9 @@
 # Site settings
-title: System-on-Chip Design & Verification
+title: C++ A*
 author:
   name: Pero Schwitalla
   email:
-description: "My SoC Project"
+description: "A* Project Blog"
 
 # Build settings
 remote_theme: jekyll/minima
