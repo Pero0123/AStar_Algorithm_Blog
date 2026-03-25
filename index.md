@@ -4,7 +4,7 @@ Course: Bachelor of Engineering (Honours) in Software and Electronic Engineering
 
 Module: C++ Programming
 
-## **Introduction**
+# **Introduction**
 
 Welcome to my C++ A* search algorithm project. My name is Pero Schwitalla and this is my project blog where I document the process of creating the A* Algorithm, why I made the design choices I made and my thoughts on how the project went.
 
@@ -43,6 +43,7 @@ The code used a hardcoded grid. 0's represent walkable areas, 1's represent obst
 
 This is an example of the notes I took during my research. I wanted to understand the core logic of the A* algorithm at a high level.
 I learned how G, H and F are used to keep track of the path length and the cost of movement.
+
 ![Pasted_image_20260325152604.png](docs/assets/images/Pasted_image_20260325152604.png)
 
 ## Heuristics
@@ -277,7 +278,7 @@ This project helped me use and understand the best practices for C++. I also lea
 
 [4] https://google.github.io/styleguide/cppguide.html 29/02/26 "C++ style guidelines"
 
-[5] [Procedural 2D Generation Using Noise Function(Python) | by Noise | Jan, 2026 | Medium](https://medium.com/@versydev/procedural-2d-generation-using-noise-function-python-02d23d8cf7af) "Noise for 2D procedural generation."
+[5] [Procedural 2D Generation Using Noise Function - Medium](https://medium.com/@versydev/procedural-2d-generation-using-noise-function-python-02d23d8cf7af) Jan 2026 "Noise for 2D procedural generation."
 
 [6] https://en.wikipedia.org/wiki/Perlin_noise 20/03/26 "Perlin Noise details"
 
