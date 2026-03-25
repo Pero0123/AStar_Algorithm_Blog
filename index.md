@@ -1,5 +1,5 @@
 # **A* Algorithm**
-
+![Pasted_image_20260324114336.png](docs/assets/images/AStar.jpg)
 Course: Bachelor of Engineering (Honours) in Software and Electronic Engineering
 
 Module: C++ Programming
