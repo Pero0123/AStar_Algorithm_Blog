@@ -10,15 +10,7 @@
     color: #ce9178;
   }
   img { border: 1px solid #444; }
-  .MathJax { color: #d4d4d4; }
 </style>
-
-<script>
-  MathJax = {
-    tex: { inlineMath: [['$', '$']], displayMath: [['$$', '$$']] }
-  };
-</script>
-<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 
 # **A* Algorithm**
 ![Pasted_image_20260324114336.png](docs/assets/images/AStar.jpg)
@@ -74,7 +66,7 @@ I learned how G, H and F are used to keep track of the path length and the cost 
 The GeeksforGeeks code uses Euclidian distance. This is simply the straight line distance between the starting point and the destination. It is used when movement in any direction is allowed.
 The formula for *Euclidian Distance* is:
 
-$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
+$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$
 
 ![Pasted_image_20260324232708.png](docs/assets/images/Pasted_image_20260324232708.png)
 
